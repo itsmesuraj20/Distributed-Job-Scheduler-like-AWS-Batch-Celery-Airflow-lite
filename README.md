@@ -1,4 +1,4 @@
-# -Distributed-Job-Scheduler-like-AWS-Batch-Celery-Airflow-lite
+# Distributed-Job-Scheduler-like-AWS-Batch-Celery-Airflow-lite
 
 ### Tech Stack:
 	-	Go or Java, gRPC/REST, PostgreSQL, Redis, Docker, Kubernetes
